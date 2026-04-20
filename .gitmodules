@@ -1,3 +1,6 @@
 [submodule "services/israel-tax-refund"]
 	path = services/israel-tax-refund
 	url = https://github.com/tupe12334/israel-tax-refund
+[submodule "services/israel-gun-license"]
+	path = services/israel-gun-license
+	url = https://github.com/tupe12334/israel-gun-license.git

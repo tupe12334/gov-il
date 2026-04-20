@@ -4,6 +4,13 @@ A collection of AI-powered Claude Code workspaces that automate interactions wit
 
 No coding required.
 
+## Services
+
+| Service | Description |
+|---------|-------------|
+| [israel-tax-refund](services/israel-tax-refund) | File an Israeli tax refund (Form 135) via the Misim portal — end-to-end |
+| [israel-gun-license](services/israel-gun-license) | Apply for an Israeli handgun license (רישיון לנשיאת אקדח) via gov.il — eligibility check, data collection, and form submission |
+
 ## How It Works
 
 Each service is a Claude Code workspace. Claude uses the [Playwright MCP server](https://github.com/microsoft/playwright-mcp) to control a real local browser and interact with official government portals on your behalf.
