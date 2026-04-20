@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p services)",
+      "Bash(git submodule *)",
+      "Bash(git commit *)",
+      "Bash(git push *)",
+      "Bash(gh auth *)",
+      "Bash(gh repo *)"
+    ]
+  }
+}
