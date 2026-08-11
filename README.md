@@ -40,6 +40,10 @@ claude .
 - No credentials or personal data are stored in any repository
 - Claude interacts only with official government portals
 
+## See Also
+
+- [moadim](https://moadim.io/) — loop engineering: build, schedule & run agent loops. Another project by the same author.
+
 ## License
 
 Each submodule carries its own license. See the individual service directories.
