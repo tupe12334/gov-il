@@ -30,7 +30,7 @@ Your data never leaves your machine — it goes directly from Claude to the port
 ```bash
 # Clone the full collection (all submodules)
 git clone --recurse-submodules https://github.com/tupe12334/gov-il.git
-cd israel-tax-refund
+cd gov-il/services/israel-tax-refund
 claude .
 ```
 
